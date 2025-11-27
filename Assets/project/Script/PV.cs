@@ -40,6 +40,7 @@ public class PV : MonoBehaviour
     private void Update()
     {
        StartCoroutine(GameOver());
+        HorsMap();
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
@@ -48,6 +49,24 @@ public class PV : MonoBehaviour
         {
             Destroy(collision.gameObject);
             GameReset();
+            dommage();
+            toucher.Invoke();
+        }
+    }
+
+    void HorsMap()
+    {
+        if (gameObject.transform.position.y <= -4.5)
+        {
+            GameReset();
+            gameObject.GetComponent<Animator>().SetTrigger("dommage");
+            dommage();
+            toucher.Invoke();
+        }
+        if (gameObject.transform.position.y >= 4.5)
+        {
+            GameReset();
+            gameObject.GetComponent<Animator>().SetTrigger("dommage");
             dommage();
             toucher.Invoke();
         }

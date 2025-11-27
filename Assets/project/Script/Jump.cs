@@ -7,8 +7,15 @@ public class Jump : MonoBehaviour
     [SerializeField] Rigidbody2D playerRgigidBody2D;
     [SerializeField] float jumpHight;
     [SerializeField] UnityEvent jump;
+    [SerializeField] GameObject trainer;
 
     public bool dommage;
+
+    private void Start()
+    {
+        trainer.SetActive(false);
+    }
+
     private void Update()
     {
         AppllyJump();
@@ -39,16 +46,19 @@ public class Jump : MonoBehaviour
         {
            
             transform.rotation = Quaternion.Euler(0, 0, 20);
+            trainer.SetActive(true);
         }
         else if (ySpeed < 0)
         {
             
             transform.rotation = Quaternion.Euler(0, 0, -20);
+            trainer.SetActive(false);
         }
         else
         {
             
             transform.rotation = Quaternion.Euler(0, 0, 0);
+            trainer.SetActive(false);
         }
     }
 }
