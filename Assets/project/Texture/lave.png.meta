@@ -1,0 +1,3708 @@
+fileFormatVersion: 2
+guid: 06e44b34f2bc6d6409b8edc99d57ef3c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6949084356034787172
+    second: lave_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lave_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2874
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4677dab676b107060800000000000000
+      internalID: 6949084356034787172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_1
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 2874
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af4be72c08d4aa49a6a96272a5796b6
+      internalID: 814504194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_2
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 2874
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ff3b53611a7404fbd63813400ec404
+      internalID: 1899949592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_3
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 2874
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5b3514a990b4d4597e8d38e6ee77a1
+      internalID: -310193463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_4
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 2874
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e36f00825862243a92d07e6ccbaee9
+      internalID: 992906583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_5
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 2874
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1df9db19d6b2f4d86957d9ed0ddf3f
+      internalID: -2060873472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_6
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 2874
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ac54f03cc8df84eb6ea55ea5a15320
+      internalID: 1847869421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_7
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 2874
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c67f2da7d9fa47c4c8b33aa382ab36bd
+      internalID: -1258514875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_8
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 2874
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c334752f31445934cb21588ee4a40fb1
+      internalID: 1395950381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_9
+      rect:
+        serializedVersion: 2
+        x: 2421
+        y: 2874
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf236be8e8b6b484cb609b1cebaa5ab0
+      internalID: 1572733200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_10
+      rect:
+        serializedVersion: 2
+        x: 2690
+        y: 2874
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345933b44ccbbb9418b7049d25e7356e
+      internalID: -2081903012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_11
+      rect:
+        serializedVersion: 2
+        x: 2959
+        y: 2874
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2766d31bae71e439d86d23e73cb4fe
+      internalID: 787187056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_12
+      rect:
+        serializedVersion: 2
+        x: 3228
+        y: 2874
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ec6d0be407e4b4aa8d433b53ff60b5
+      internalID: 844539356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2613
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daddfadf91d883348be10a5afc6cfa71
+      internalID: 726872135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_14
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 2613
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22264f31421e9834eba371939675e74a
+      internalID: -2106548175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_15
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 2613
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a971825a0d10624a83c9b23a53621fc
+      internalID: -1779585413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_16
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 2613
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3febd4902fa25694d8133d352549d3c7
+      internalID: -434635346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_17
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 2613
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f512f5b35a293464d81f30388f816fad
+      internalID: 777440815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_18
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 2613
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ffc1d7759e5744693469e1958fcaa9
+      internalID: -440862235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_19
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 2613
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715aad747e630ab4d90543597dd39198
+      internalID: 1938815514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_20
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 2613
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eacdaf756b9284548afcf25a82e55adb
+      internalID: 144883840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_21
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 2613
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3aadea39f06e584f8682fbbac1dcccb
+      internalID: 522980966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_22
+      rect:
+        serializedVersion: 2
+        x: 2421
+        y: 2613
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b089347f6f873874abc69595de866de2
+      internalID: 133137790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_23
+      rect:
+        serializedVersion: 2
+        x: 2690
+        y: 2613
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4929b597836a5b42bac6dcf922315d0
+      internalID: -1675154693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_24
+      rect:
+        serializedVersion: 2
+        x: 2959
+        y: 2613
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b25067cbf6f4a54690c0f009b425876
+      internalID: 55055100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_25
+      rect:
+        serializedVersion: 2
+        x: 3228
+        y: 2613
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8f7c46bc455334a9a2abfb8bd3ccf6
+      internalID: 819319668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2352
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4677ebc33bac9945bb297a4b1542cef
+      internalID: -261071554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_27
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 2352
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb73a04e1d0eeb14d8a0186f063c1c8d
+      internalID: -1414272001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_28
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 2352
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465ef333afba52b4fb5f43eba7c0254a
+      internalID: -209692817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_29
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 2352
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696b4717e49f4ae448c5faccbe98e976
+      internalID: 341630447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_30
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 2352
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8da03eb435a9240bb03239e281e9d9
+      internalID: 1908006744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_31
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 2352
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97107d8534d14694a8c3ef4dedcc852b
+      internalID: 10149898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_32
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 2352
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d149b19bc7f73c438bb6b5ea04f5b15
+      internalID: 161800590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_33
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 2352
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0546afa9c97960b4baf904f882bfab1e
+      internalID: 1127166435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_34
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 2352
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06bb9cc87151814baa1524cbfafb225
+      internalID: 1164298050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_35
+      rect:
+        serializedVersion: 2
+        x: 2421
+        y: 2352
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ed3879812e18840b8211488d82a9eb
+      internalID: 1096712162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_36
+      rect:
+        serializedVersion: 2
+        x: 2690
+        y: 2352
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6a47d14eda0dc48abecc9ed693fa4e
+      internalID: -697124440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_37
+      rect:
+        serializedVersion: 2
+        x: 2959
+        y: 2352
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d155b2b145816144a7dd685d84c725b
+      internalID: -1630644067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_38
+      rect:
+        serializedVersion: 2
+        x: 3228
+        y: 2352
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8582a99c4c47be9499b4e884098ff45c
+      internalID: -1608117247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2091
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859ca7b18eba4fe418763ca6729ef460
+      internalID: -735412422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_40
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 2091
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438b7e0591894754c88f849e217bedca
+      internalID: 275924739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_41
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 2091
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f42d14850f31f94c86e410246783e94
+      internalID: 1954227872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_42
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 2091
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c151e57d3b668848a3ec166adf2761f
+      internalID: -1701958104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_43
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 2091
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602ebc83b67ab084292bcba00f580238
+      internalID: -69521881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_44
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 2091
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c8a0a76d3e9d444a4f283d2a25541e
+      internalID: -1942777108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_45
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 2091
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee567d021a65a87419d978d10a562bb7
+      internalID: 8917042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_46
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 2091
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6647c59cc1b04841aa5ddb4a9a0640f
+      internalID: -236065907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_47
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 2091
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a606d96a008bfe24faa93abceaa1b1b1
+      internalID: 1018622591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_48
+      rect:
+        serializedVersion: 2
+        x: 2421
+        y: 2091
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421ba881376f6b84aa220598e23f7586
+      internalID: 1641484467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_49
+      rect:
+        serializedVersion: 2
+        x: 2690
+        y: 2091
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67705c0b7790cc9449a2040423e2fb1e
+      internalID: 1170334943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_50
+      rect:
+        serializedVersion: 2
+        x: 2959
+        y: 2091
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7cf0a2bfc1685f4d920a8c09631cdaa
+      internalID: 855788189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_51
+      rect:
+        serializedVersion: 2
+        x: 3228
+        y: 2091
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ce168f886b3d34b96bfddc9f759eeb
+      internalID: -442999146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1830
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4163cf6b12eb4044a9772dc285249bd1
+      internalID: -100265369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_53
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1830
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0db611d2853ea42bf50a58e4e9648c
+      internalID: 1384439568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_54
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1830
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1165088485d27864cb1d63b4a0f0aa84
+      internalID: 236435923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_55
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 1830
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034757b07120fc24ab529029c4118f38
+      internalID: 227866305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_56
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 1830
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1421cbfe07ceb5f47aee5be98e2172ec
+      internalID: -2123976370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_57
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 1830
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f1d87f44a34084488a62d619e73de2
+      internalID: 1152454430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_58
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 1830
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb5ffada60a466459e96a95d2d07ca2
+      internalID: 1918561268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_59
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 1830
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f29a7009f457544b07da0b289af163
+      internalID: 1724068808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_60
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 1830
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3beaa184d253344ad4e0464e5e9acd
+      internalID: 1355572736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_61
+      rect:
+        serializedVersion: 2
+        x: 2421
+        y: 1830
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8715a71634c055d4ab48d1df4a0d0a69
+      internalID: -1971923131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_62
+      rect:
+        serializedVersion: 2
+        x: 2690
+        y: 1830
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3d3ece474c05d4dacb7ede91e7f846
+      internalID: -1195274995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_63
+      rect:
+        serializedVersion: 2
+        x: 2959
+        y: 1830
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baff19acd19a46b49b50b2daf44cd587
+      internalID: -499815848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_64
+      rect:
+        serializedVersion: 2
+        x: 3228
+        y: 1830
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be198bce7cb172e469b1e6fd42e15964
+      internalID: -1083686494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1569
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f1db89eb6570048a645ffe99ba9f6d
+      internalID: -1975533207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_66
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1569
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5937986d2979e4d9d6bdf28cc89cd5
+      internalID: -1560136835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_67
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1569
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb6552d9370a0640b1fee696b2c1c5d
+      internalID: 954111685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_68
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 1569
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff9ddec39f6b1340bd8b5a528531d3c
+      internalID: -570166789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_69
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 1569
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1b547dd3787964b80b6ba9f86601f7
+      internalID: -921605411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_70
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 1569
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 565875c8bdad47c41bdc0f62364cc1c5
+      internalID: 1218730052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_71
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 1569
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b26e3f836f6c4449a591f733be87bd7
+      internalID: 812719380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_72
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 1569
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f4ecc92e9393042b10f485472efd0b
+      internalID: 1155087734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_73
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 1569
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10037c0151f79146a34341150146309
+      internalID: -522569290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_74
+      rect:
+        serializedVersion: 2
+        x: 2421
+        y: 1569
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056d3f97116fa8740b54f57b617adc12
+      internalID: -1391636081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_75
+      rect:
+        serializedVersion: 2
+        x: 2690
+        y: 1569
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16615b4b624f5d2469d32f392327dd35
+      internalID: 1734457271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_76
+      rect:
+        serializedVersion: 2
+        x: 2959
+        y: 1569
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d7b93b27175ba41ba59cacf38dbb99
+      internalID: -1662144280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_77
+      rect:
+        serializedVersion: 2
+        x: 3228
+        y: 1569
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6094ce73621594981a6516b2cbef18
+      internalID: 1002658739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1308
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6b753831c730e4d8b3dd4e588fe0b0
+      internalID: 920976342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_79
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1308
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0927a3108c4aa2441af7f59006d3dfe1
+      internalID: -1442174811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_80
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1308
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b634d7d2f95ef95459b6a99c2721699f
+      internalID: 2002164755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_81
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 1308
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c31f7337c894434084a8d73243c54a5
+      internalID: -1888341901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_82
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 1308
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2716b19a871cf254391cb39241fb2fe4
+      internalID: 1465533777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_83
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 1308
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9787e775d4de09748978bf8c0da9b955
+      internalID: 824861888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_84
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 1308
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67963ddbf4a85d64382ee40103ba0c7a
+      internalID: 85117398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_85
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 1308
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4705a1a8e8bb94ca97d64b98d0a7b9
+      internalID: -151018168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_86
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 1308
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bfd08a18a00e1b499361a32ca6f2fcd
+      internalID: 1187014788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_87
+      rect:
+        serializedVersion: 2
+        x: 2421
+        y: 1308
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3bf64039150a5449615e25dab65bde
+      internalID: 638612093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_88
+      rect:
+        serializedVersion: 2
+        x: 2690
+        y: 1308
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302f55d870ab0d3409af9d87265f6b52
+      internalID: -2074965102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_89
+      rect:
+        serializedVersion: 2
+        x: 2959
+        y: 1308
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1b73e57ee179e419d07feff023ae17
+      internalID: 1323896677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_90
+      rect:
+        serializedVersion: 2
+        x: 3228
+        y: 1308
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199c91483e206cc4992b36c7dced13ab
+      internalID: -185969666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1047
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91fa81f2b13edd84dba1fe38022f800c
+      internalID: 1605981983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_92
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1047
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21fbdcffb16022b4495b59d8a8164009
+      internalID: -1023826401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_93
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1047
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248bd457231660f42965a62db369d6d6
+      internalID: 558602793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_94
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 1047
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b7033038591f148b0a07c32097ff4e
+      internalID: 1283965879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_95
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 1047
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb91288ca518f2748ac04429c1eb597f
+      internalID: -346352187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_96
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 1047
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0504bd79e02ae87409b82bbc099b23e0
+      internalID: -1127519090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_97
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 1047
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd052ca6e0410d14fa3df16828803a05
+      internalID: -1016573546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_98
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 1047
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a79310e48758134bbd9b7efe567098a
+      internalID: -960878346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_99
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 1047
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c2db78812cbb54c907f7229e630d70
+      internalID: 2101944789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_100
+      rect:
+        serializedVersion: 2
+        x: 2421
+        y: 1047
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5f8e6980787b14697a45ce4a130f45
+      internalID: -818849876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_101
+      rect:
+        serializedVersion: 2
+        x: 2690
+        y: 1047
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572469cdb5d1fc545b70d925ee8dd3ac
+      internalID: -946733371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_102
+      rect:
+        serializedVersion: 2
+        x: 2959
+        y: 1047
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1537870b822d1c049a48f776cbfb402d
+      internalID: -242737020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_103
+      rect:
+        serializedVersion: 2
+        x: 3228
+        y: 1047
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105ff42d1e772be49bfba6ab574d3a17
+      internalID: -1930704652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 786
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1e348a7ffcd8d45a62d2da054a7721
+      internalID: -1345405717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_105
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 786
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9197e35e2fcaf04f8c2e8f8adb4e11f
+      internalID: -1257668912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_106
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 786
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3182ab185a2952f4382f42d28929df38
+      internalID: -1877136627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_107
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 786
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a1ad9aa29869c4281d6311e8e1eaab
+      internalID: 674117341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_108
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 786
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0730f65a3840fa543b1aefbc78a7c497
+      internalID: -1303142701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_109
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 786
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a0056b55a39fd4ca24fe10ec0a73f5
+      internalID: -452759075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_110
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 786
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5122d96b5ac7d04da0f43d84cbc9f7d
+      internalID: 833488896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_111
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 786
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877a87bee3152354db301483426582b2
+      internalID: 388054931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_112
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 786
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81440b4d68b0df4b9150b653662a754
+      internalID: 428213568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_113
+      rect:
+        serializedVersion: 2
+        x: 2421
+        y: 786
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17a11b94ccc8a641838e60551b3f539
+      internalID: 1752440877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_114
+      rect:
+        serializedVersion: 2
+        x: 2690
+        y: 786
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56602844daaf84a40b7fb751d0a2b95f
+      internalID: -176685263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_115
+      rect:
+        serializedVersion: 2
+        x: 2959
+        y: 786
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83dfe69f71bfcb14191176ca6941d808
+      internalID: 225800956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_116
+      rect:
+        serializedVersion: 2
+        x: 3228
+        y: 786
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df7662759640c4c46824cb5b217711e0
+      internalID: 168005484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 525
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733c8fac53a8f3642a192cd498a18b9c
+      internalID: -1851726467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_118
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 525
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105ea65304a5319459c07b0cd62f1a2a
+      internalID: -129943775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_119
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 525
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c79358ea6ddde4db077cb45905635b
+      internalID: 438292029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_120
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 525
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdcc7db0c14552344a4d0a2c0f6cac88
+      internalID: -1397394933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_121
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 525
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b878eaf7af1d4340b7b7892013c3178
+      internalID: -127305713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_122
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 525
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2cb4bd1026b354da7bc41099497ce9
+      internalID: -402112664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_123
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 525
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3abfd1bb523a46846b38283ceaa32cd7
+      internalID: -1675855886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_124
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 525
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2180b4c3b774346b65004d2f51531b
+      internalID: -1710959727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_125
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 525
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1148c3799dc164a97a5871165d05d0
+      internalID: 1017113672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_126
+      rect:
+        serializedVersion: 2
+        x: 2421
+        y: 525
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08404023d1a7a6f47b7feb3067e5e447
+      internalID: 200060160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_127
+      rect:
+        serializedVersion: 2
+        x: 2690
+        y: 525
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc010cdcf8d01b40a24e89ebe1a7391
+      internalID: -479002748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_128
+      rect:
+        serializedVersion: 2
+        x: 2959
+        y: 525
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3508b04c0a56804d877a0e1e2ce929c
+      internalID: -1351178303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_129
+      rect:
+        serializedVersion: 2
+        x: 3228
+        y: 525
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95783ff0ce241184a822ca286e0209b6
+      internalID: -1812019403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 264
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272b80065923f4240bfc29ead37e262b
+      internalID: -1789762758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_131
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 264
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a275b3ca19f074385c9e60bdb5a1c3
+      internalID: -1538856565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_132
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 264
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4911bd9330cb3043bd7669e973308a4
+      internalID: 1504673438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_133
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 264
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953546317f456cf47bc2b66b994091be
+      internalID: -1134929728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_134
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 264
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660b7368b3155244588e84804b15ae62
+      internalID: -1198674000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_135
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 264
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa739261a29b954da5001f9859dc365
+      internalID: 1073126977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_136
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 264
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43bca5474eb09ba4ebdd9dadd50cbb7c
+      internalID: 1485323195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_137
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 264
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8deb0f8aa3c578c42b1e1c6e60ff0b50
+      internalID: 1970834766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_138
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 264
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f732b5fccd2fb3459de6e8c6c2b1ea6
+      internalID: -401334928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_139
+      rect:
+        serializedVersion: 2
+        x: 2421
+        y: 264
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed8a53e95ec8ee4e8b5326b65ad910d
+      internalID: -1228277158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_140
+      rect:
+        serializedVersion: 2
+        x: 2690
+        y: 264
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4afcb5d9d15848e469b94633737760e7
+      internalID: 2016400880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_141
+      rect:
+        serializedVersion: 2
+        x: 2959
+        y: 264
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e6abefcceb87847a0e0538a6b919c6
+      internalID: 543227807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_142
+      rect:
+        serializedVersion: 2
+        x: 3228
+        y: 264
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec543ceb14240d41a902122933ffa32
+      internalID: 1872935658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_143
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731e5721631718f4c968f6c297793461
+      internalID: 887662200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_144
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 3
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e73497b091e92d43b819aa61ac86384
+      internalID: -248937703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_145
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 3
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626cd2cc758753f479bfe909b63acdce
+      internalID: 2120254113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_146
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 3
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd72b42f915383647bcc671169945e5b
+      internalID: -1778169000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_147
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 3
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0746ef8c319b6740bdab08d499ce6b0
+      internalID: 972733892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_148
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 3
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212d9f442395c144d8fd8456d1ffba68
+      internalID: 1239624044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_149
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 3
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75569777cffeac34588a73c61050333f
+      internalID: -1480176809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_150
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 3
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbdf0b1f818df234e9c8dab10871c511
+      internalID: -815788675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_151
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 3
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c0f1cea99f7044ab3ecb0647f97127
+      internalID: -1115562191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_152
+      rect:
+        serializedVersion: 2
+        x: 2421
+        y: 3
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c48fadfee0c9a42a769fe5cc04ef18
+      internalID: -1343321715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_153
+      rect:
+        serializedVersion: 2
+        x: 2690
+        y: 3
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef35c3547fecc8f4eafc5f1f09a6a009
+      internalID: 1922392391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_154
+      rect:
+        serializedVersion: 2
+        x: 2959
+        y: 3
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0666e307a343240aa0c24ae311c159
+      internalID: -2108096918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_155
+      rect:
+        serializedVersion: 2
+        x: 3228
+        y: 3
+        width: 269
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1677d7528fd6c4cb5ad0055eabf987
+      internalID: 35336700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a82c115fffd128d4ea6934d09844ff94
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      lave_0: 6949084356034787172
+      lave_1: 814504194
+      lave_10: -2081903012
+      lave_100: -818849876
+      lave_101: -946733371
+      lave_102: -242737020
+      lave_103: -1930704652
+      lave_104: -1345405717
+      lave_105: -1257668912
+      lave_106: -1877136627
+      lave_107: 674117341
+      lave_108: -1303142701
+      lave_109: -452759075
+      lave_11: 787187056
+      lave_110: 833488896
+      lave_111: 388054931
+      lave_112: 428213568
+      lave_113: 1752440877
+      lave_114: -176685263
+      lave_115: 225800956
+      lave_116: 168005484
+      lave_117: -1851726467
+      lave_118: -129943775
+      lave_119: 438292029
+      lave_12: 844539356
+      lave_120: -1397394933
+      lave_121: -127305713
+      lave_122: -402112664
+      lave_123: -1675855886
+      lave_124: -1710959727
+      lave_125: 1017113672
+      lave_126: 200060160
+      lave_127: -479002748
+      lave_128: -1351178303
+      lave_129: -1812019403
+      lave_13: 726872135
+      lave_130: -1789762758
+      lave_131: -1538856565
+      lave_132: 1504673438
+      lave_133: -1134929728
+      lave_134: -1198674000
+      lave_135: 1073126977
+      lave_136: 1485323195
+      lave_137: 1970834766
+      lave_138: -401334928
+      lave_139: -1228277158
+      lave_14: -2106548175
+      lave_140: 2016400880
+      lave_141: 543227807
+      lave_142: 1872935658
+      lave_143: 887662200
+      lave_144: -248937703
+      lave_145: 2120254113
+      lave_146: -1778169000
+      lave_147: 972733892
+      lave_148: 1239624044
+      lave_149: -1480176809
+      lave_15: -1779585413
+      lave_150: -815788675
+      lave_151: -1115562191
+      lave_152: -1343321715
+      lave_153: 1922392391
+      lave_154: -2108096918
+      lave_155: 35336700
+      lave_16: -434635346
+      lave_17: 777440815
+      lave_18: -440862235
+      lave_19: 1938815514
+      lave_2: 1899949592
+      lave_20: 144883840
+      lave_21: 522980966
+      lave_22: 133137790
+      lave_23: -1675154693
+      lave_24: 55055100
+      lave_25: 819319668
+      lave_26: -261071554
+      lave_27: -1414272001
+      lave_28: -209692817
+      lave_29: 341630447
+      lave_3: -310193463
+      lave_30: 1908006744
+      lave_31: 10149898
+      lave_32: 161800590
+      lave_33: 1127166435
+      lave_34: 1164298050
+      lave_35: 1096712162
+      lave_36: -697124440
+      lave_37: -1630644067
+      lave_38: -1608117247
+      lave_39: -735412422
+      lave_4: 992906583
+      lave_40: 275924739
+      lave_41: 1954227872
+      lave_42: -1701958104
+      lave_43: -69521881
+      lave_44: -1942777108
+      lave_45: 8917042
+      lave_46: -236065907
+      lave_47: 1018622591
+      lave_48: 1641484467
+      lave_49: 1170334943
+      lave_5: -2060873472
+      lave_50: 855788189
+      lave_51: -442999146
+      lave_52: -100265369
+      lave_53: 1384439568
+      lave_54: 236435923
+      lave_55: 227866305
+      lave_56: -2123976370
+      lave_57: 1152454430
+      lave_58: 1918561268
+      lave_59: 1724068808
+      lave_6: 1847869421
+      lave_60: 1355572736
+      lave_61: -1971923131
+      lave_62: -1195274995
+      lave_63: -499815848
+      lave_64: -1083686494
+      lave_65: -1975533207
+      lave_66: -1560136835
+      lave_67: 954111685
+      lave_68: -570166789
+      lave_69: -921605411
+      lave_7: -1258514875
+      lave_70: 1218730052
+      lave_71: 812719380
+      lave_72: 1155087734
+      lave_73: -522569290
+      lave_74: -1391636081
+      lave_75: 1734457271
+      lave_76: -1662144280
+      lave_77: 1002658739
+      lave_78: 920976342
+      lave_79: -1442174811
+      lave_8: 1395950381
+      lave_80: 2002164755
+      lave_81: -1888341901
+      lave_82: 1465533777
+      lave_83: 824861888
+      lave_84: 85117398
+      lave_85: -151018168
+      lave_86: 1187014788
+      lave_87: 638612093
+      lave_88: -2074965102
+      lave_89: 1323896677
+      lave_9: 1572733200
+      lave_90: -185969666
+      lave_91: 1605981983
+      lave_92: -1023826401
+      lave_93: 558602793
+      lave_94: 1283965879
+      lave_95: -346352187
+      lave_96: -1127519090
+      lave_97: -1016573546
+      lave_98: -960878346
+      lave_99: 2101944789
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
