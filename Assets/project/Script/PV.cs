@@ -78,7 +78,7 @@ public class PV : MonoBehaviour
         {
             coeurDroiteActif = false;
             gameObject.GetComponent<Jump>().dommage = true;
-            Instantiate(coeurBriser,new Vector3(-8.89999962f, 0.460000008f, 0), Quaternion.identity);
+            Instantiate(coeurBriser,new Vector3(-7.32f, 0.460000008f, 0), Quaternion.identity);
             coeurDroite.GetComponent<SpriteRenderer>().enabled = false;
             return;
         }
@@ -86,7 +86,7 @@ public class PV : MonoBehaviour
         {
             coeurMillieuActif = false;
             gameObject.GetComponent<Jump>().dommage = true;
-            Instantiate(coeurBriser, new Vector3(-8.89999962f, 0.460000008f, 0), Quaternion.identity);
+            Instantiate(coeurBriser, new Vector3(-7.32f, 0.460000008f, 0), Quaternion.identity);
             coeurMillieu.GetComponent<SpriteRenderer>().enabled = false;
             return;
         }
@@ -94,7 +94,7 @@ public class PV : MonoBehaviour
         {
             coeurGaucheActif = false;
             gameObject.GetComponent<Jump>().dommage = true;
-            Instantiate(coeurBriser, new Vector3(-8.89999962f, 0.460000008f, 0), Quaternion.identity);
+            Instantiate(coeurBriser, new Vector3(-7.32f, 0.460000008f, 0), Quaternion.identity);
             coeurGauche.GetComponent<SpriteRenderer>().enabled = false;
             death = true;
             return;
