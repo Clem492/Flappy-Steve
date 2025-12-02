@@ -5,16 +5,26 @@ using UnityEngine;
 public class SpawnerObstacle : MonoBehaviour
 {
     [SerializeField] GameObject LavePrefab;
+    [SerializeField] GameObject Player;
     public bool restartScreen;
+    public float cooldawn;
     private void Start()
     {
+        
         StartCoroutine(Spawn());
+        cooldawn = Player.GetComponent<Score>().cooldawn;
+    }
+
+    private void Update()
+    {
+        cooldawn = Player.GetComponent<Score>().cooldawn;
     }
 
     IEnumerator Spawn()
     {
+        yield return new WaitForSeconds(cooldawn);
         instatiateLavePrefab();
-        yield return new WaitForSeconds(4);
+        
         StartCoroutine(Spawn());
     }
 

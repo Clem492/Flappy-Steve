@@ -2,11 +2,11 @@ using UnityEngine;
 
 public class MovementLave : MonoBehaviour
 {
-    [SerializeField] float speed;
+     float speed;
 
     private void Update()
     {
-        
+        speed = GameObject.FindWithTag("Player").GetComponent<Score>().speed_lave;
         ApplyMovement();
     }
     void ApplyMovement()

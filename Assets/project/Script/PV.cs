@@ -22,6 +22,7 @@ public class PV : MonoBehaviour
     [SerializeField] RectTransform panel;
     [SerializeField] TextMeshProUGUI scoreGame;
     [SerializeField] TextMeshProUGUI scoreDeath;
+    [SerializeField] Score score;
 
 
     bool coeurGaucheActif;
@@ -177,7 +178,9 @@ public class PV : MonoBehaviour
         gameObject.GetComponent<Jump>().dommage = true;
         panel.gameObject.SetActive(false);
         StartCoroutine(relancerJeu());
-
+        score.speed_lave = -2;
+        score.cooldawn = 4;
+        score.speed_background
 
 
     }
