@@ -68,4 +68,11 @@ public class Score : MonoBehaviour
         can_move = false;
         can_spawn = false;
     }
+
+
+
+
+
+    
+
 }

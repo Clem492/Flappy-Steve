@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
 using UnityEngine.Events;
+using UnityEngine.SceneManagement;
 
 public class PV : MonoBehaviour
 {
@@ -180,7 +181,7 @@ public class PV : MonoBehaviour
         StartCoroutine(relancerJeu());
         score.speed_lave = -2;
         score.cooldawn = 4;
-        score.speed_background
+        score.speed_background = -1;
 
 
     }
@@ -195,9 +196,9 @@ public class PV : MonoBehaviour
         gameObject.GetComponent<Jump>().dommage = false;
     }
 
-    public void QuitterApplication()
+    public void TitleScreen()
     {
-        Application.Quit();
+        SceneManager.LoadScene("Play");
     }
 
    
