@@ -117,7 +117,7 @@ public class PV : MonoBehaviour
         gameObject.GetComponent<Rigidbody2D>().gravityScale = 0;
         gameObject.GetComponent<Rigidbody2D>().linearVelocityX = 0;
         gameObject.GetComponent<Rigidbody2D>().linearVelocityY = 0;
-        gameObject.transform.position = new Vector3(-2.82999992f, 0.411622256f, 0);
+        gameObject.transform.position = new Vector3(-2.82999992f, 0.411622256f, -1);
         gameObject.transform.rotation = Quaternion.Euler(0, 0, 0); 
         StartCoroutine(VisuelPlayer());
     }

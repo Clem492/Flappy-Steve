@@ -5,7 +5,7 @@ public class Game : MonoBehaviour
 {
     public void Play()
     {
-        SceneManager.LoadScene("Game");
+        SceneManager.LoadScene("tuto");
     }
 
     public void exit()
