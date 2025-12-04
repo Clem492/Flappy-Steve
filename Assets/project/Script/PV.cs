@@ -5,6 +5,7 @@ using TMPro;
 using UnityEngine;
 using UnityEngine.Events;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 public class PV : MonoBehaviour
 {
@@ -26,17 +27,24 @@ public class PV : MonoBehaviour
     [SerializeField] Score score;
 
 
+    [SerializeField] GameObject PotionFull, PotionEmpty;
+    [SerializeField] Slider bar;
+
     bool coeurGaucheActif;
     bool coeurMillieuActif;
     bool coeurDroiteActif;
     bool death;
+    public bool PanelActive;
+
     private void Start()
     {
+        PanelActive = false;
         coeurGaucheActif = true;
         coeurMillieuActif = true;
         coeurDroiteActif = true;
         death = false;
         panel.gameObject.SetActive(false);
+        
     }
 
     private void Update()
@@ -158,8 +166,12 @@ public class PV : MonoBehaviour
                 death = false;
                 yield return new WaitForSeconds(1);
                 panel.gameObject.SetActive(true);
+                PanelActive = true;
                 
                 scoreDeath.text = gameObject.GetComponent<Score>().scoreText.text;
+                PotionFull.SetActive(false);
+                PotionEmpty.SetActive(false);
+                bar.gameObject.SetActive(false);
             }
         }
         yield break;
@@ -167,9 +179,11 @@ public class PV : MonoBehaviour
 
     public void Restart()
     {
+        
         coeurGaucheActif = true;
         coeurMillieuActif = true;
         coeurDroiteActif = true;
+        PotionFull.SetActive(true);
         gameObject.GetComponent<SpriteRenderer>().enabled = true;
         spawner.gameObject.GetComponent<SpawnerObstacle>().restartScreen = false;
         coeurDroite.GetComponent<SpriteRenderer>().enabled = true;
@@ -178,6 +192,7 @@ public class PV : MonoBehaviour
         scoreGame.gameObject.SetActive(true);
         gameObject.GetComponent<Jump>().dommage = true;
         panel.gameObject.SetActive(false);
+        PanelActive = false;
         StartCoroutine(relancerJeu());
         score.speed_lave = -2;
         score.cooldawn = 4;
